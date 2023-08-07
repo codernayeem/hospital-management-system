@@ -1,0 +1,560 @@
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor
+        [2] - Show all Doctors
+        [3] - Remove a Doctor
+        [4] - Admit a Patient
+        [5] - Show all Patient
+        [6] - Search a Patient
+        [7] - Pay medical fee
+        [8] - Discharge a Patient
+        [9] - Report
+        [0] - QUIT
+
+[+] - Choose a Action :1
+
+         Appoint A New Doctor
+
+Enter Name : Dr. Hasan
+Enter Speciality : Brain
+Enter Visiting Fee : 800
+
+[+] - Added New doctor with ID : 101
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 1
+
+         Appoint A New Doctor
+
+Enter Name : Dr. Kabir
+Enter Speciality : Eye
+Enter Visiting Fee : 600
+
+[+] - Added New doctor with ID : 102
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 1
+
+         Appoint A New Doctor
+
+Enter Name : Dr. Rabbi
+Enter Speciality : Skin
+Enter Visiting Fee : 500
+
+[+] - Added New doctor with ID : 103
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 2
+
+                All Doctors (3)
+
+Name      : Dr. Hasan   | Doctor ID : 101
+Speciality: Brain       | Fee : 800 tk
+
+Name      : Dr. Kabir   | Doctor ID : 102
+Speciality: Eye         | Fee : 600 tk
+
+Name      : Dr. Rabbi   | Doctor ID : 103
+Speciality: Skin        | Fee : 500 tk
+
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 3
+
+         Remove Doctor
+
+Enter Doctor ID : 102
+
+[!] - Doctor [Dr. Kabir] Removed
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 1
+
+         Appoint A New Doctor
+
+Enter Name : Dr. Sami 
+Enter Speciality : Eye
+Enter Visiting Fee : 450
+
+[+] - Added New doctor with ID : 104
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 3
+
+                All Doctors (3)
+
+Name      : Dr. Hasan   | Doctor ID : 101
+Speciality: Brain       | Fee : 800 tk
+
+Name      : Dr. Rabbi   | Doctor ID : 103
+Speciality: Skin        | Fee : 500 tk
+
+Name      : Dr. Sami    | Doctor ID : 104
+Speciality: Eye         | Fee : 450 tk
+
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 4
+
+         Admit A Patient
+
+Enter Name : Md. Mehedi
+Enter Age : 21
+Enter Gender (M/F) : M
+Enter Mobile No. : 01912345678
+Enter Blood Group : A-
+Enter Problem : Skin
+
+[+] - Patient Admitted [ID - 1001]
+[+] - Patient will be checked up by Dr. Rabbi [Doctor ID - 103 | Fee : 500 tk]
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 4
+
+         Admit A Patient
+
+Enter Name : Jahid Hasan
+Enter Age : 25 
+Enter Gender (M/F) : M
+Enter Mobile No. : 01945644564 
+Enter Blood Group : B+
+Enter Problem : Eye
+
+[+] - Patient Admitted [ID - 1002]
+[+] - Patient will be checked up by Dr. Sami [Doctor ID - 104 | Fee : 450 tk]
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 4
+
+         Admit A Patient
+
+Enter Name : Tarek Mia
+Enter Age : 74
+Enter Gender (M/F) : M
+Enter Mobile No. : 01789898989
+Enter Blood Group : A+
+Enter Problem : Brain
+
+[+] - Patient Admitted [ID - 1003]
+[+] - Patient will be checked up by Dr. Hasan [Doctor ID - 101 | Fee : 800 tk]
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 4
+
+         Admit A Patient
+
+Enter Name : Samia Khatun
+Enter Age : 89
+Enter Gender (M/F) : F
+Enter Mobile No. : 01312121212
+Enter Blood Group : O-
+Enter Problem : Brain
+
+[+] - Patient Admitted [ID - 1004]
+[+] - Patient will be checked up by Dr. Hasan [Doctor ID - 101 | Fee : 800 tk]
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 5
+
+                All Patients (4)
+
+Patient [ID : 1001]
+  - Name :      Md. Mehedi
+  - Age :       21
+  - Gender :    M
+  - Blood Group : A-
+  - Contact :   01912345678
+  - Problem :   Skin
+  - Medical Fee : NOT PAID
+Checking by Dr. Rabbi [Doctor ID - 103 | Fee : 500 tk]
+
+Patient [ID : 1002]
+  - Name :      Jahid Hasan
+  - Age :       25
+  - Gender :    M
+  - Blood Group : B+
+  - Contact :   01945644564
+  - Problem :   Eye
+  - Medical Fee : NOT PAID
+Checking by Dr. Sami [Doctor ID - 104 | Fee : 450 tk]
+
+Patient [ID : 1003]
+  - Name :      Tarek Mia
+  - Age :       74
+  - Gender :    M
+  - Blood Group : A+
+  - Contact :   01789898989
+  - Problem :   Brain
+  - Medical Fee : NOT PAID
+Checking by Dr. Hasan [Doctor ID - 101 | Fee : 800 tk]
+
+Patient [ID : 1004]
+  - Name :      Samia Khatun
+  - Age :       89
+  - Gender :    F
+  - Blood Group : O-
+  - Contact :   01312121212
+  - Problem :   Brain
+  - Medical Fee : NOT PAID
+Checking by Dr. Hasan [Doctor ID - 101 | Fee : 800 tk]
+
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 6
+
+         Search Patient
+
+1. Search by ID
+2. Search by Name
+
+Enter Command : 1
+Enter Patient ID : 1002
+
+Patient [ID : 1002]
+  - Name :      Jahid Hasan
+  - Age :       25
+  - Gender :    M
+  - Blood Group : B+
+  - Contact :   01945644564
+  - Problem :   Eye
+  - Medical Fee : NOT PAID
+
+The Patient is getting checked by =>
+Name      : Dr. Sami    | Doctor ID : 104
+Speciality: Eye         | Fee : 450 tk
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 6
+
+         Search Patient
+
+1. Search by ID
+2. Search by Name
+
+Enter Command : 2
+Enter Patient Full name : Samia Khatun
+
+Patient [ID : 1004]
+  - Name :      Samia Khatun
+  - Age :       89
+  - Gender :    F
+  - Blood Group : O-
+  - Contact :   01312121212
+  - Problem :   Brain
+  - Medical Fee : NOT PAID
+
+The Patient is getting checked by =>
+Name      : Dr. Hasan   | Doctor ID : 101
+Speciality: Brain       | Fee : 800 tk
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 7
+
+         Pay Medical Fee 
+
+Enter Patient ID : 1001
+
+[+] - Patient name : Md. Mehedi
+[+] - Fee Amount : 500 tk
+
+[+] - Fee Paid Successfully
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 8
+
+         Discharge a Patient 
+
+Enter Patient ID : 1001
+
+[+] - Patient name : Md. Mehedi
+[+] - Fee Amount : 500 tk
+[+] - Fee Status : PAID
+
+[+] - Patient Discharged
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 8
+
+         Discharge a Patient
+
+Enter Patient ID : 1002
+
+[+] - Patient name : Jahid Hasan
+[+] - Fee Amount : 450 tk
+[+] - Fee Status : NOT PAID
+
+[!] - Fee needs not be paid before discharge!
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 9
+
+        --- Report ---
+
+
+Total Patient admitted till now : 4
+Current Patient count           : 3
+Current Doctor count            : 3
+
+Problem Type : Skin      Patient Count : 1       Average Age : 21
+Problem Type : Eye       Patient Count : 1       Average Age : 25
+Problem Type : Brain     Patient Count : 2       Average Age : 81.5
+
+Press any key...
+
+                Hospital Management System
+                --------------------------
+
+        [1] - Appoint new Doctor 
+        [2] - Show all Doctors 
+        [3] - Remove a Doctor 
+        [4] - Admit a Patient 
+        [5] - Show all Patient 
+        [6] - Search a Patient 
+        [7] - Pay medical fee 
+        [8] - Discharge a Patient 
+        [9] - Report 
+        [0] - QUIT 
+
+[+] - Choose a Action : 0
+
+        --- Thank your for using ---
